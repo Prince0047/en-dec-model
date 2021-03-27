@@ -5,4 +5,7 @@
 ### Dataset
 #### Dataset is can be downloaded from [here](https://www.kaggle.com/snap/amazon-fine-food-reviews).
 
+### Attention Layer
+#### Attention Layer being used can be found [here](https://github.com/thushv89/attention_keras/blob/master/src/layers/attention.py).
+
 ### Other Detail are provided in the notebook itself.
